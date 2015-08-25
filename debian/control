@@ -10,6 +10,7 @@ Package: arduino-atmega328
 Section: boards
 Architecture: all
 XBSC-Group: Arduino
+XBSC-Subgroup: Generic
 Depends: arduino
 Description: Arduino Duemilanove w/ ATmega328
 
