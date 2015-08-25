@@ -1,0 +1,17 @@
+Source: arduino-atmega328
+Section: boards
+XBSC-Family: avr
+Priority: optional
+Maintainer: Matt Jenkins <matt@majenko.co.uk>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+
+Package: arduino-atmega328
+Section: boards
+Architecture: all
+XBSC-Group: Arduino
+Depends: arduino
+Description: Arduino Duemilanove w/ ATmega328
+
+
+
